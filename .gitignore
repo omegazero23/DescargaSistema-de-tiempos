@@ -1,0 +1,8 @@
+# Ignorar directorios generados por Python
+__pycache__/
+
+# Ignorar el directorio del entorno virtual de Python
+env/
+
+#ignorar el secret Json
+secret.json
